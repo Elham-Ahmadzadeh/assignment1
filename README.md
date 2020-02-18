@@ -1,1 +1,1 @@
-we have already complted our group assignment.
+we have already completed our group assignment.
