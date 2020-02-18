@@ -415,7 +415,7 @@ li a:hover {
   background: #c7ddea;
   border-radius: 4px;
   background-color: #c7ddea;
-  background-image: url("/img/child.png");
+  background-image: url("../img/child.png");
   background-repeat: no-repeat;
   background-position: center -2%;
   background-size: 50%;
@@ -462,7 +462,7 @@ li a:hover {
   height: 200px;
   background: #fab131;
   border-radius: 4px;
-  background-image: url("/img/adult.png");
+  background-image: url("../img/adult.png");
   background-repeat: no-repeat;
   background-position: center -15%;
   background-size: 40%;
@@ -478,7 +478,7 @@ li a:hover {
   height: 200px;
   background: #f17949;
   border-radius: 4px;
-  background-image: url("/img/old.png");
+  background-image: url("../img/old.png");
   background-repeat: no-repeat;
   background-position: center -10%;
   background-size: 70%;
